@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinSQLite</string>
+    <string name="enter_login">Enter login</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="name">Name</string>
+    <string name="create_acount">Create acount</string>
+    <string name="auto_registration">Log in</string>
+    <string name="btn_auth">Log in</string>
+    <string name="registration">register</string>
+    <string name="name_items_activity">Goods</string>
+</resources>
